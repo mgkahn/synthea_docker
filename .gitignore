@@ -4,3 +4,4 @@
 output/*/*
 !output/patients_will_appear_here
 */.DS_Store
+**/synthea
